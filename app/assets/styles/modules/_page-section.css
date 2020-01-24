@@ -3,6 +3,9 @@
 	@mixin atMedium {
 	padding: 4.5rem 0;
 	}
+	&--text-white{
+		color: #FFF;
+	}
 	&--no-b-padding-until-medium{
 		padding-bottom: 0;
 		
